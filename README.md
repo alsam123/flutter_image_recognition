@@ -1,6 +1,10 @@
 # imagerec
 
-A new Flutter project.
+A mobile application build using Flutter and TFlite that can give
+the probabilities of confidence of a provided input image on
+different classes of trained images.
+
+
 
 ## Getting Started
 
